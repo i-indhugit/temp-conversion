@@ -21,12 +21,4 @@ A simple and interactive **Python Temperature Converter** that converts between:
 - **Kelvin to Celsius**: `K - 273.15`
 - **Kelvin to Fahrenheit**: `(K - 273.15) × 9/5 + 32`
 
- How to Run
 
-1. Clone this repo or copy the code into a file, e.g., `temperature_converter.py`.
-2. Open your terminal or VS Code.
-3. Make sure Python is installed (`python --version`).
-4. Run the script:
-
-```bash
-python temperature_converter.py
