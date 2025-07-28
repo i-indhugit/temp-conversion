@@ -5,16 +5,12 @@ A simple and interactive **Python Temperature Converter** that converts between:
 - Fahrenheit ↔ Celsius & Kelvin
 - Kelvin ↔ Celsius & Fahrenheit
 
-
-
  Project Features
 
 - Text-based menu for easy navigation
 - Supports **three types** of temperature conversions
 - Uses modular functions for better code clarity and reuse
 - Beginner-friendly and runs in any Python environment
-
-
 
  Conversion Formulas
 
