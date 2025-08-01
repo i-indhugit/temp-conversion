@@ -5,7 +5,7 @@ A simple and interactive **Python Temperature Converter** that converts between:
 - Fahrenheit ↔ Celsius & Kelvin
 - Kelvin ↔ Celsius & Fahrenheit
 
- Project Features
+ Project Features:
 
 - Text-based menu for easy navigation
 - Supports **three types** of temperature conversions
