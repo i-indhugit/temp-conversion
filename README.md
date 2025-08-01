@@ -12,7 +12,7 @@ A simple and interactive **Python Temperature Converter** that converts between:
 - Uses modular functions for better code clarity and reuse
 - Beginner-friendly and runs in any Python environment
 
- Conversion Formulas
+ Conversion Formulas:
 
 - **Celsius to Fahrenheit**: `(°C × 9/5) + 32`
 - **Celsius to Kelvin**: `°C + 273.15`
