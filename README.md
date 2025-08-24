@@ -15,7 +15,6 @@ A simple and interactive **Python Temperature Converter** that converts between:
 - Beginner-friendly and runs in any Python environment
 
  Conversion Formulas:
-
 - **Celsius to Fahrenheit**: `(°C × 9/5) + 32`
 - **Celsius to Kelvin**: `°C + 273.15`
 - **Fahrenheit to Celsius**: `(°F - 32) × 5/9`
